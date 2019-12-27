@@ -1,2 +1,2 @@
 # learn2code
-A repository to leard coding
+A repository to learn coding
